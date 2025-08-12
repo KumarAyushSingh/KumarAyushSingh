@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi, I’m Ayush Kumar Singh<br>I’m a trained DevOps Engineer passionate about building, automating, and optimizing systems that power applications at scale. My work revolves around:<br><br>Containerization 🐳 (Docker, Kubernetes)<br><br>Infrastructure as Code ⚙️ (Terraform, Ansible, etc.)<br><br>CI/CD Pipelines 🚀<br><br>Cloud & Deployment Automation ☁️<br><br>I’ve built multiple projects applying these skills to solve real-world problems and streamline workflows.<br><br>Currently, I’m expanding my impact through open source contributions in:<br><br>Python 🐍<br><br>Java ☕<br><br>DevOps Tooling & Infrastructure 🔧<br><br>💡 Always exploring ways to make infrastructure smarter, faster, and more reliable.
 
 
